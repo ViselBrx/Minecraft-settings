@@ -18,7 +18,7 @@ Este projeto também funciona como uma **base reutilizável** para futuros mods,
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" height="48" alt="Git" />
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="48" alt="GitHub" />
   <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" height="48" alt="VS Code" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="48" alt="CurseForge" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1076/1076744.png" height="48" alt="Minecraft Forge" />
 </div>
 
 <br>
@@ -28,7 +28,6 @@ Este projeto também funciona como uma **base reutilizável** para futuros mods,
 * 💻 **Visual Studio Code** — Editor de código  
 * 🌿 **Git / Git Bash** — Controle de versão  
 * ☁️ **GitHub** — Hospedagem e versionamento  
-* 🧪 **CurseForge** — Plataforma de distribuição de mods  
 
 ---
 
