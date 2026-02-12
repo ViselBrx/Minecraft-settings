@@ -18,13 +18,21 @@ Este projeto também funciona como uma **base reutilizável** para futuros mods,
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
 
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="48" alt="GitHub" />
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="50" alt="GitHub" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
 
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15a10966-3031-4c71-9c5d-0b2aa31b1af2/dfvkx77-cc87588e-be1b-431c-9713-0c7c5bf77f88.png"
        height="50" alt="Minecraft Forge" />
-</div>  
+</div>
+
+<br>
+
+* ☕ **Java** — Linguagem principal do projeto  
+* 🧩 **Minecraft Forge** — Framework de modificação do Minecraft  
+* 💻 **Visual Studio Code** — Editor de código  
+* 🌿 **Git / Git Bash** — Controle de versão  
+* ☁️ **GitHub** — Hospedagem e versionamento 
 
 ---
 
