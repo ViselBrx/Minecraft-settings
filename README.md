@@ -15,10 +15,17 @@ Este projeto também funciona como uma **base reutilizável** para futuros mods,
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
+       height="50" alt="GitHub" style="filter: invert(1);" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/curseforge.svg" height="50" alt="CurseForge" />
+
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/curseforge.svg"
+       height="46" alt="CurseForge"
+       style="background:#f16436; padding:6px; border-radius:8px;" />
 </div>
 
 <br>
