@@ -22,7 +22,7 @@ Este projeto também funciona como uma **base reutilizável** para futuros mods,
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
 
-  <img src="./assets//curseforge.png" height="50" alt="Forge" />
+  <img src="./assets//curseforge.png" height="55" alt="Forge" />
 </div>
 
 <br>
