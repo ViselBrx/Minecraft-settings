@@ -14,5 +14,5 @@ Este projeto também funciona como uma **base reutilizável** para futuros mods,
 
 ## 👤 Autor
 
-Create by **Visel XD** S2
+Create by **Visel XD** S2 <br>
 Repositório focado em aprendizado, organização e evolução contínua.
