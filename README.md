@@ -1,70 +1,80 @@
-# 🗡️ Elemental Swords – Minecraft 1.7.10
+# ⚙️ Minecraft Settings
 
-Um pequeno projeto/mod conceitual para **Minecraft 1.7.10**, apresentando **três espadas elementais customizadas** com visual fiel ao estilo clássico do jogo (pixel art tradicional):
-
-* 🔥 **Fire Sword**
-* ☠️ **Poison Sword**
-* ❄️ **Ice Sword**
-
-O foco do projeto é **visual, identidade e consistência com o Minecraft antigo**, ideal para mods, datapacks antigos, apresentações ou portfólio.
+Bem-vindo ao **Minecraft Settings** 🎮✨
+Este repositório reúne **configurações personalizadas**, ajustes visuais e experimentos focados em **Minecraft Java**, com ênfase em versões antigas (como **1.7.10**) e no estilo clássico do jogo.
 
 ---
 
-## 📸 Screenshots
+## 🎯 Objetivo do Repositório
+
+Este projeto tem como objetivo:
+
+* 🔧 Centralizar **settings e configurações** do Minecraft
+* 🎨 Explorar melhorias **visuais e de jogabilidade** sem perder o estilo vanilla
+* 🧪 Servir como base de **testes, estudos e experimentos**
+* 📁 Facilitar reutilização em outros projetos ou mods
+
+---
+
+## 🧩 O que você encontra aqui
+
+* ⚔️ Configurações de itens customizados (ex: espadas elementais)
+* 🌈 Ajustes gráficos e visuais
+* 🗂️ Arquivos organizados para fácil manutenção
+* 🕹️ Conteúdo pensado para **Minecraft Java Edition**
+
+---
+
+## 🖼️ Demonstrações
+
+Alguns exemplos visuais do conteúdo presente no repositório:
 
 ### 🔥 Fire Sword
 
-![Fire Sword](screenshots/swordFire.png)
-
-Espada elemental de fogo, com tonalidades quentes e destaque visual que remete a calor e combustão.
-
----
+![Fire Sword](./screenshots/2026-02-12_19.41.25.png)
 
 ### ☠️ Poison Sword
 
-![Poison Sword](screenshots/swordPoison.png)
-
-Espada venenosa com cores esverdeadas, transmitindo a ideia de toxicidade e dano contínuo.
-
----
+![Poison Sword](./screenshots/2026-02-12_19.41.37.png)
 
 ### ❄️ Ice Sword
 
-![Ice Sword](screenshots/swordIce.png)
-
-Espada de gelo com tons azulados, inspirada em congelamento e controle.
+![Ice Sword](./screenshots/2026-02-12_19.41.48.png)
 
 ---
 
-## 🎮 Compatibilidade
+## 🧱 Versões & Compatibilidade
 
-* **Minecraft:** 1.7.10
-* **Estilo:** Vanilla / Pixel Art Clássico
+* **Minecraft:** Java Edition
+* **Foco principal:** 1.7.10
+* **Estilo:** Vanilla clássico / Pixel Art
 
 ---
 
-## 📂 Estrutura sugerida do repositório
+## 📂 Estrutura do Projeto (exemplo)
 
 ```
-📦 elemental-swords
+📦 minecraft-settings
  ┣ 📂 screenshots
- ┃ ┣ fire_sword.png
- ┃ ┣ poison_sword.png
- ┃ ┗ ice_sword.png
+ ┃ ┣ 2026-02-12_19.41.25.png
+ ┃ ┣ 2026-02-12_19.41.37.png
+ ┃ ┗ 2026-02-12_19.41.48.png
  ┣ README.md
 ```
 
 ---
 
-## 📌 Observações
+## 🚀 Futuras Ideias
 
-* As espadas seguem um **design convencional**, respeitando o padrão visual do Minecraft 1.7.10.
-* Ideal para uso em mods antigos, apresentações visuais ou inspiração para outros projetos.
+* ⚙️ Mais configurações personalizadas
+* 🧪 Testes com versões diferentes
+* 📜 Documentação detalhada de cada setting
 
 ---
 
 ## 👤 Autor
 
-Desenvolvido por **Visel XD**.
+Criado por **Enzo Semenssi Toniato** 🧠💻
+Repositório focado em aprendizado, organização e evolução contínua.
 
-Se quiser evoluir o projeto (efeitos, atributos, lore ou implementação em mod), é só continuar 🚀
+Sinta-se à vontade para explorar, adaptar e evoluir o projeto 🚀
