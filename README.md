@@ -22,8 +22,7 @@ Este projeto também funciona como uma **base reutilizável** para futuros mods,
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
 
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15a10966-3031-4c71-9c5d-0b2aa31b1af2/dfvkx77-cc87588e-be1b-431c-9713-0c7c5bf77f88.png"
-       height="50" alt="Minecraft Forge" />
+  <img src="./assets//curseforge.png" height="50" alt="Forge" />
 </div>
 
 <br>
