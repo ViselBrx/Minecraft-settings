@@ -1,0 +1,12 @@
+[{
+  "modid": "mymodid",
+  "name": "ExtraSwords",
+  "description": "Adiciona 3 espadas com efeitos!",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "credits": "",
+  "authorList": ["Você"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}]

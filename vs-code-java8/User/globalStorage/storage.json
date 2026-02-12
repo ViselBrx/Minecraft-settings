@@ -1,0 +1,73 @@
+{
+    "telemetry.machineId": "97d7a86847b6f9e370eef61dc65f229fdd99747a041ac306fe5eace4cfefdb7b",
+    "telemetry.sqmId": "{59D7D48D-397B-4C80-BD67-B22B873A8165}",
+    "telemetry.devDeviceId": "384bbbb4-d217-496f-95c6-8c8de5d9d7d8",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///c%3A/Users/enzot/Desktop/Minecraft-settings/ExtraSwords"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///c%3A/Users/enzot/Desktop/Minecraft-settings/ExtraSwords": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#0d1117",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#0d1117",
+            "editorBackground": "#0d1117",
+            "titleBarBackground": "#161b22",
+            "activityBarBackground": "#161b22",
+            "sideBarBackground": "#0d1117",
+            "statusBarBackground": "#1f6feb",
+            "statusBarNoFolderBackground": "#68217a"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "8dcafe5780066d32fe71dd2a9cd95a96": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///c%3A/Users/enzot/Desktop/Minecraft-settings/ExtraSwords",
+            "backupPath": "C:\\Users\\enzot\\Desktop\\Minecraft-settings\\vs-code-java8\\Backups\\fe1da13ab387a0c663a246f134f4cbf1",
+            "uiState": {
+                "mode": 1,
+                "x": 0,
+                "y": 0,
+                "width": 1366,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    }
+}

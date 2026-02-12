@@ -1,0 +1,15 @@
+{
+  message: "Use the JDK from 'JAVA_HOME,PATH' as the initial default project JDK.",
+  level: 'info',
+  timestamp: '2026-02-11 21:53:02.468'
+}
+{
+  message: 'Starting Java server with: c:\\Users\\enzot\\.vscode\\extensions\\redhat.java-1.52.0-win32-x64\\jre\\21.0.9-win32-x86_64\\bin\\java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m -Xlog:disable -javaagent:c:\\Users\\enzot\\.vscode\\extensions\\redhat.java-1.52.0-win32-x64\\lombok\\lombok-1.18.39-4050.jar -jar c:\\Users\\enzot\\.vscode\\extensions\\redhat.java-1.52.0-win32-x64\\server\\plugins\\org.eclipse.equinox.launcher_1.7.100.v20251111-0406.jar -configuration c:\\Users\\enzot\\Desktop\\Minecraft-settings\\vs-code-java8\\User\\globalStorage\\redhat.java\\1.52.0\\config_ss_win -data c:\\Users\\enzot\\Desktop\\Minecraft-settings\\vs-code-java8\\User\\workspaceStorage\\8dcafe5780066d32fe71dd2a9cd95a96\\redhat.java\\ss_ws',
+  level: 'info',
+  timestamp: '2026-02-11 21:53:02.618'
+}
+{
+  message: 'Starting Java server with: c:\\Users\\enzot\\.vscode\\extensions\\redhat.java-1.52.0-win32-x64\\jre\\21.0.9-win32-x86_64\\bin\\java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m -Xlog:disable -javaagent:c:\\Users\\enzot\\.vscode\\extensions\\redhat.java-1.52.0-win32-x64\\lombok\\lombok-1.18.39-4050.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=c:\\Users\\enzot\\Desktop\\Minecraft-settings\\vs-code-java8\\User\\workspaceStorage\\8dcafe5780066d32fe71dd2a9cd95a96\\redhat.java -Daether.dependencyCollector.impl=bf -jar c:\\Users\\enzot\\.vscode\\extensions\\redhat.java-1.52.0-win32-x64\\server\\plugins\\org.eclipse.equinox.launcher_1.7.100.v20251111-0406.jar -configuration c:\\Users\\enzot\\Desktop\\Minecraft-settings\\vs-code-java8\\User\\globalStorage\\redhat.java\\1.52.0\\config_win -data c:\\Users\\enzot\\Desktop\\Minecraft-settings\\vs-code-java8\\User\\workspaceStorage\\8dcafe5780066d32fe71dd2a9cd95a96\\redhat.java\\jdt_ws',
+  level: 'info',
+  timestamp: '2026-02-11 21:53:07.742'
+}

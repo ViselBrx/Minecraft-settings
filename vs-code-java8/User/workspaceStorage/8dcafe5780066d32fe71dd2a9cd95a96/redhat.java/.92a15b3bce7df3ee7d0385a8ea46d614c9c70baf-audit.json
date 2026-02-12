@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "c:\\Users\\enzot\\Desktop\\Minecraft-settings\\vs-code-java8\\User\\workspaceStorage\\8dcafe5780066d32fe71dd2a9cd95a96\\redhat.java\\.92a15b3bce7df3ee7d0385a8ea46d614c9c70baf-audit.json",
+    "files": [
+        {
+            "date": 1770857582351,
+            "name": "c:\\Users\\enzot\\Desktop\\Minecraft-settings\\vs-code-java8\\User\\workspaceStorage\\8dcafe5780066d32fe71dd2a9cd95a96\\redhat.java\\client.log.2026-02-11",
+            "hash": "5dec752820d316a2843e2983dff4210254c377e4e073bff25622d94f7e6f7065"
+        }
+    ],
+    "hashType": "sha256"
+}
