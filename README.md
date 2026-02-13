@@ -47,7 +47,7 @@ Este repositório pode ser utilizado como **referência prática para criação 
 ### Como criar um mod semelhante
 
 1. Instale o **Java (JDK compatível)** com a versão do Minecraft escolhida.  
-2. Baixe o **Minecraft Forge <src>** diretamente do site oficial:  
+2. Baixe o **Minecraft Forge SRC** diretamente do site oficial:  
    👉 https://files.minecraftforge.net/net/minecraftforge/forge/  
 3. Extraia o **Forge MDK** da versão desejada (ex.: 1.7.10).  
 4. Crie o workspace do Forge conforme a documentação da versão.  
