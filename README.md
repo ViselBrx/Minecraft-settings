@@ -1,6 +1,7 @@
 # ⚙️ Minecraft Settings
 
 Bem-vindo ao **Minecraft Settings** 🎮✨  
+
 Este repositório reúne **configurações personalizadas**, ajustes visuais e experimentos focados em **Minecraft Java**, com ênfase em versões antigas (como **1.7.10**) e no estilo clássico do jogo.
 
 O objetivo principal é servir como um **espaço de testes, aprendizado e referência**, reunindo settings que envolvem aspectos visuais, itens customizados e pequenas modificações que mantêm a identidade vanilla do Minecraft.
