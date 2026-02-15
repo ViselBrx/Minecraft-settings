@@ -1,3 +1,9 @@
 item.swordFire.name=Fire Sword
 item.swordIce.name=Ice Sword
 item.swordPoison.name=Poison Sword
+item.swordLightning.name=Lightning Sword
+item.swordWither.name=Wither Sword
+item.swordNausea.name=Nausea Sword
+item.swordHunger.name=Hunger Sword
+item.swordWeakness.name=Weakness Sword
+item.test.name=Funciona
